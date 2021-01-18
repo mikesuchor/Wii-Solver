@@ -7,14 +7,12 @@ Step 1: Turn on your Wii U and wait around 2~5 minutes to make sure it booted
 
 Step 2: While pressing the sync button on the gamepad with the stylus, turn on the gamepad (there should be a menu asking you to insert the code to sync with the Wii U)
 
-Step 3: Open this app on your Android phone
+Step 3: Open this website
 
 Step 4: On the Wii U, press sync one time, wait 5 seconds (or more if you want to be sure) and press sync a second time
 
-Step 5: Immediately after Step 4, press the start button in the Android app
+Step 5: Try combinations using the next button on the website
 
-Step 6: Try out the combinations the app gives to you
+Step 6: The sync menu disappears after 3 minutes, so if the timer turns red, either wait for the timer to run out and give 5~10 seconds just to be sure, or press the sync button (it should make the Wii U go back to the home menu)
 
-Step 7: The sync menu disappears after 3 minutes, so if the timer turns red, either wait for the timer to run out and give 5~10 seconds just to be sure, or press the sync button (it should make the Wii U go back to the home menu)
-
-Step 8:: Repeat step 4 to 7 until the gamepad hopefully syncs with the Wii U
+Step 7: Repeat step 4 to 7 until the gamepad hopefully syncs with the Wii U
