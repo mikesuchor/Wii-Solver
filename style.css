@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.number {
+  padding-top: 50px;
+}
+
+.combo {
+  padding-top: 20px;
+  font-size: 64px;
+}
+
+.next {
+  padding: 10px 20px;
+  background: #bbb;
+  border-radius: 20px;
+  margin-top: 30px;
+  outline: none;
+}
